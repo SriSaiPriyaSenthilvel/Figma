@@ -33,7 +33,9 @@ Publish the website in the given URL.
 /* Home Page */
 
 position: relative;
+
 width: 360px;
+
 height: 640px;
 background: #BA0B0B;
 /* Rectangle 2 */
